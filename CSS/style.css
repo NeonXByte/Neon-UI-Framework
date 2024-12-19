@@ -1,1 +1,34 @@
 
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+.neon-card {
+  background-color: #111;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #0ff, 0 0 20px #0ff, 0 0 40px #0ff;
+  text-align: center;
+}
+.neon-btn {
+  background-color: #000;
+  border: 2px solid #0ff;
+  color: #0ff;
+  padding: 10px 20px;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
+}
+.neon-btn:hover {
+  color: #fff;
+  box-shadow: 0 0 15px #0ff, 0 0 30px #0ff, 0 0 60px #0ff;
+}
