@@ -109,7 +109,7 @@ Special thanks to:
 
 Have questions or suggestions? Feel free to reach out:  
 - **GitHub**: [NeonXByte](https://github.com/NeonXByte)  
-- **Email**: [neonxbyte@example.com](mailto:neonxbyte@yahoo.com)
+- **Email**: [neonxbyte@yahoo.com](mailto:neonxbyte@yahoo.com)
 
 ---
 
