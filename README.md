@@ -18,7 +18,7 @@
 ## 🌌 Demo
 
 Check out a live demo of the framework:  
-[Live Demo](https://yourusername.github.io/Neon-UI-Framework/)
+[Live Demo](https://NeonXByte.github.io/Neon-UI-Framework/)
 
 ---
 
@@ -27,11 +27,11 @@ Check out a live demo of the framework:
 ### Using Git:
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Neon-UI-Framework.git
+git clone https://github.com/NeonXByte/Neon-UI-Framework.git
 ```
 
 ### Using Download:
-- [Download ZIP](https://github.com/yourusername/Neon-UI-Framework/archive/main.zip)
+- [Download ZIP](https://github.com/NeonXByte/Neon-UI-Framework/archive/main.zip)
 - Extract the files to your project directory.
 
 ---
